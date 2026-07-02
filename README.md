@@ -101,13 +101,4 @@ RAG-HR-Policy-Assistant/
 ├── requirements.txt     # Python dependencies
 ├── README.md           # Project documentation
 └── .gitignore          # Git ignore rules
-```
 
----
-
-## 🎓 Academic Context
-
-Built as part of the MS in Artificial Intelligence program at **Yeshiva University, Katz School of Science and Health** (Spring 2026). Group project with Vishal Balaji.
-
-**Course:** Capstone / Independent Study  
-**Focus:** Production-grade GenAI systems with safety and compliance enforcement
