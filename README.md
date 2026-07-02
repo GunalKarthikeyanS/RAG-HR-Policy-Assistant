@@ -111,11 +111,3 @@ Built as part of the MS in Artificial Intelligence program at **Yeshiva Universi
 
 **Course:** Capstone / Independent Study  
 **Focus:** Production-grade GenAI systems with safety and compliance enforcement
-
----
-
-## 👤 Author
-
-**Gunal Karthikeyan Saravanan**  
-MS in Artificial Intelligence — Yeshiva University  
-[LinkedIn](https://linkedin.com/in/gunalkarthikeyans) | [GitHub](https://github.com/GunalKarthikeyanS)
