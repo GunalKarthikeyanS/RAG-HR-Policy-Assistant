@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# ChromaDB local storage
+chroma_db/
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Uploaded files
+*.pdf
+uploads/
